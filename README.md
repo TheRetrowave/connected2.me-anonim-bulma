@@ -5,11 +5,16 @@
 adım adım yapılacaklar.
 
 1- anonimin hangi ilde yaşıyor öğren.
+
 2- anonimin sana yazdığı "anon-xxxxxxx" kimliği not al.
+
 3- google play'den "astra chat" indir.
+
 4- uygulamaya giriş yap. kullanıcı adına  
 "c2kullaniciadin@x.connected2.me", şifreye hesabının şifresini yaz.
+
 5. not aldığın anon adını "anon-xxxxxx@x.connected2.me" olarak ekle.
+
 6. anon online olduğu zaman gözüküyor ve en son ne zaman çevrimdışı olduğu belli oluyor.
 7. uzun bir süre online olmayacağı vakti seçip son gorulme tarihini not. örneğin 14:24.
 8. bul.py'de 29 satırdaki kısmın zaman aralığını +2 -2 olarak değiştir.
