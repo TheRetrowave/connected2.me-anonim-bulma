@@ -13,7 +13,7 @@ adım adım yapılacaklar.
 4- uygulamaya giriş yap. kullanıcı adına  
 "c2kullaniciadin@x.connected2.me", şifreye hesabının şifresini yaz.
 
-5. not aldığın anon adını "anon-xxxxxx@x.connected2.me" olarak ekle.
+5. not aldığın anon adını "anon-xxxxxx@x.connected2.me" olarak astrac chat uygulamasında ekle.
 
 6. anon online olduğu zaman gözüküyor ve en son ne zaman çevrimdışı olduğu belli oluyor.
 
