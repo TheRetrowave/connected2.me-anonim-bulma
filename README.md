@@ -13,7 +13,7 @@ adım adım yapılacaklar.
 4- uygulamaya giriş yap. kullanıcı adına  
 "c2kullaniciadin@x.connected2.me", şifreye hesabının şifresini yaz.
 
-5. not aldığın anon adını "anon-xxxxxx@x.connected2.me" olarak astrac chat uygulamasında ekle.
+5. not aldığın anon adını "anon-xxxxxx@x.connected2.me" olarak astra chat uygulamasında ekle.
 
 6. anon online olduğu zaman gözüküyor ve en son ne zaman çevrimdışı olduğu belli oluyor.
 
@@ -28,8 +28,7 @@ adım adım yapılacaklar.
 
 10. artık o zaman aralığında en son görülme tarihi 14.23-24-25-26-27 olan o ilde yaşayan kişilerin profillerine sahipsin.
 
-11. terminal ekranindan veya programın kaydettiği bulunan_hesaplar.txt içersindeki kullanıcıları eleyerek kişiyi bulmak 
+11. terminal ekranindan veya programın kaydettiği bulunan_hesaplar.txt içersindeki kullanıcıları eleyerek kişiyi bulmak kalıyor.
 
-kalıyor.
 12. elemek için kullanacağın bir yöntem şüphelendiğin profil ile astra chat uygulamasından anonim ile o profilin ayni anda online olma durumlarini kontrol et.
  
