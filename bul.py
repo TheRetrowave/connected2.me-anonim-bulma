@@ -7,7 +7,7 @@ toplam = 0
 
 url = "https://api.c2me.cc/b/shuffle?region_code=34"
 
-for a in range(99999999):
+while True:
         a = requests.get(url).json()["online_users"]
         for i in range(len(a)):
         	toplam += len(a)
